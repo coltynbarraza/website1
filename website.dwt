@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="website/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+<link href="background.jpg.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body,td,th {
+    color: #FFFFFF;
+}
+a {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+</style>
+</head>
+
+<body background="background.jpg" text="#FFFFFF">
+<header> 
+  <p>CB3 Videography and Editing</p>
+</header>
+<h1>Welcome to my portfolio</h1>
+<p>Here are some things I have done so far</p>
+<p><a href="https://www.youtube.com/watch?v=g1Y6ybtw0KI"><img src="ytthumbnail.jpg" width="979" height="444" alt=""/></a></p>
+<p><a href="https://www.youtube.com/watch?v=g1Y6ybtw0KI">Fortnite Montage</a></p>
+<p>This is a video I edited consisting of game clips from either myself or my friends</p>
+<p>(Click the blue text to watch the video)</p>
+<p>&nbsp;</p>
+<p><img src="website/photoshop project  finished.jpg" width="1267" height="526" alt=""/></p>
+<p>This is a photo I created using all of Kanye West's rap albums</p>
+<p>&nbsp;</p>
+</body>
+</html>
